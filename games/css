@@ -1,0 +1,1 @@
+<?php $gameKey='css';$gameTitle='CSS Designer';$gameIcon='🎨';$accent='css';require __DIR__.'/game-template.php';

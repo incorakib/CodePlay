@@ -1,0 +1,1 @@
+<?php $gameKey='javascript';$gameTitle='JavaScript Quest';$gameIcon='⚡';$accent='js';require __DIR__.'/game-template.php';

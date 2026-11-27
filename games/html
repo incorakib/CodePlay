@@ -1,0 +1,1 @@
+<?php $gameKey='html';$gameTitle='HTML Puzzle';$gameIcon='🌐';$accent='html';require __DIR__.'/game-template.php';
